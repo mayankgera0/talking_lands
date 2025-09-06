@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "name": "washington_dc_points",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mumbai",
+        "type": "city",
+        "description": "Financial capital of India",
+        "population": 20411000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi",
+        "type": "city",
+        "description": "Capital city of India",
+        "population": 16787941
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangalore",
+        "type": "city",
+        "description": "IT hub of India",
+        "population": 8443675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5946, 12.9716]
+      }
+    }
+  ]
+}
